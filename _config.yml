@@ -1,6 +1,6 @@
 site: Index Jekyll Theme
 
-url: https://zanzivyr.github.io/
+url: https://zanzivyr.github.io
 baseurl: /home
 
 collections:
