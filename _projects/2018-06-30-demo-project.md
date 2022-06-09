@@ -3,7 +3,7 @@ title: 'Testing'
 subtitle: 'Im testing dawg'
 date: 2018-06-30 00:00:00
 description: Testtttt This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '{{ site.baseurl }}/images/demo/demo-square.jpg'
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![]({{ site.baseurl }}/images/demo/demo-landscape.jpg)
